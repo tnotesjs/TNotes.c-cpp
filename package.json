@@ -1,0 +1,30 @@
+{
+  "scripts": {
+    "distribute": "      node ./node_modules/tnotes   --distributeREADME    --repoName=c-cpp",
+    "docs:publish": "    node ./node_modules/tnotes/scripts/docs-publish.js",
+    "merge": "           node ./node_modules/tnotes   --mergeREADME         --repoName=c-cpp",
+    "sync": "            node ./node_modules/tnotes   --syncREADME          --repoName=c-cpp",
+    "update": "          node ./node_modules/tnotes   --updateREADME        --repoName=c-cpp"
+  },
+  "tnotesConfig": {
+    "dirList": {
+      ".git": {
+        "ignore": true
+      },
+      ".vscode": {
+        "ignore": true
+      },
+      "0001": {
+        "bilibili": [],
+        "done": true,
+        "ignore": false
+      },
+      "assets": {
+        "ignore": true
+      },
+      "md-imgs": {
+        "ignore": true
+      }
+    }
+  }
+}
