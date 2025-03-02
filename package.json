@@ -1,30 +1,23 @@
 {
   "scripts": {
-    "distribute": "      node ./node_modules/tnotes   --distributeREADME    --repoName=c-cpp",
-    "docs:publish": "    node ./node_modules/tnotes/scripts/docs-publish.js",
-    "merge": "           node ./node_modules/tnotes   --mergeREADME         --repoName=c-cpp",
-    "sync": "            node ./node_modules/tnotes   --syncREADME          --repoName=c-cpp",
-    "update": "          node ./node_modules/tnotes   --updateREADME        --repoName=c-cpp"
+    "tn:dev": "         vitepress dev --host",
+    "tn:build": "       vitepress build",
+    "tn:preview": "     vitepress preview",
+    "tn:distribute": "  node ./.tnotes/core --distribute",
+    "tn:merge": "       node ./.tnotes/core --merge",
+    "tn:sync": "        node ./.tnotes/core --sync",
+    "tn:update": "      node ./.tnotes/core --update"
   },
-  "tnotesConfig": {
-    "dirList": {
-      ".git": {
-        "ignore": true
-      },
-      ".vscode": {
-        "ignore": true
-      },
-      "0001": {
-        "bilibili": [],
-        "done": true,
-        "ignore": false
-      },
-      "assets": {
-        "ignore": true
-      },
-      "md-imgs": {
-        "ignore": true
-      }
-    }
-  }
+  "devDependencies": {
+    "markdown-it-task-lists": "^2.1.1",
+    "vitepress": "^1.6.3"
+  },
+  "dependencies": {
+    "github-slugger": "^2.0.0",
+    "markdown-it-container": "^4.0.0",
+    "markdown-it-link-attributes": "^4.0.1",
+    "minimist": "^1.2.8",
+    "swiper": "^11.2.1"
+  },
+  "packageManager": "pnpm@9.0.4+sha512.c374b52de3de88c58fd8333df664a737279cdb0e1344ba4054d3b1fffa9a1a3670854f755dca4f16adea3f14be9896a7fcaf167409fe0c1ad60475271dafe81a"
 }
