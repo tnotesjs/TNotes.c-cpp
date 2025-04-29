@@ -1,7 +1,9 @@
 {
   "author": "Tdahuyou",
   "repoName": "TNotes.c-cpp",
-  "keywords": ["TNotes.c-cpp"],
+  "keywords": [
+    "TNotes.c-cpp"
+  ],
   "ignore_dirs": [
     ".vscode",
     "0000",
@@ -50,5 +52,6 @@
       "link": "https://github.com/Tdahuyou/TNotes.template",
       "icon": "github"
     }
-  ]
+  ],
+  "id": "85c487fc-d237-4c50-a6d8-f7f19167b0e1"
 }
