@@ -12,6 +12,15 @@
     "assets"
   ],
   "rootDocsSrcDir": "../_/docs/src",
+  "home.features.item": {
+    "icon": {
+      "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--c-cpp.svg"
+    },
+    "title": "C、C++ 笔记",
+    "completed_notes_count": 1,
+    "details": "公司产品涉及到这块知识，有时间再慢慢倒腾。",
+    "link": "https://tdahuyou.github.io/TNotes.c-cpp/"
+  },
   "port": 9339,
   "menuItems": [
     {
