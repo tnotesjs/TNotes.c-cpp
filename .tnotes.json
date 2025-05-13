@@ -1,7 +1,9 @@
 {
   "author": "Tdahuyou",
   "repoName": "TNotes.c-cpp",
-  "keywords": ["TNotes.c-cpp"],
+  "keywords": [
+    "TNotes.c-cpp"
+  ],
   "ignore_dirs": [
     ".vscode",
     "0000",
