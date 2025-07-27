@@ -13,15 +13,18 @@
     "demos",
     "assets"
   ],
-  "rootDocsSrcDir": "../_/docs/src",
-  "home.features.item": {
+  "rootSidebarDir": "../_/sidebars",
+  "root_item": {
     "icon": {
       "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--c-cpp.svg"
     },
     "title": "c-cpp",
     "completed_notes_count": 1,
     "details": "C、C++ 笔记",
-    "link": "https://tdahuyou.github.io/TNotes.c-cpp/"
+    "link": "https://tdahuyou.github.io/TNotes.c-cpp/",
+    "created_at": 1737437192000,
+    "updated_at": 1753580626000,
+    "days_since_birth": 9339
   },
   "port": 9339,
   "menuItems": [
