@@ -13,7 +13,7 @@
     "demos",
     "assets"
   ],
-  "rootSidebarDir": "../_/sidebars",
+  "rootSidebarDir": "../TNotes/sidebars",
   "root_item": {
     "icon": {
       "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--c-cpp.svg"
@@ -23,7 +23,7 @@
     "details": "C、C++ 笔记",
     "link": "https://tdahuyou.github.io/TNotes.c-cpp/",
     "created_at": 1737437192000,
-    "updated_at": 1754494579503,
+    "updated_at": 1757163544670,
     "days_since_birth": 9339
   },
   "port": 9339,
@@ -62,7 +62,7 @@
     },
     {
       "ariaLabel": "TNotes.template github 仓库链接",
-      "link": "https://github.com/Tdahuyou/TNotes.template",
+      "link": "https://github.com/tnotesjs/TNotes.template",
       "icon": "github"
     }
   ],
