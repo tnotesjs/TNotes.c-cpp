@@ -1,5 +1,5 @@
 {
-  "author": "Tdahuyou",
+  "author": "tnotesjs",
   "repoName": "TNotes.c-cpp",
   "keywords": ["TNotes.c-cpp"],
   "ignore_dirs": [
@@ -19,7 +19,7 @@
     "title": "c-cpp",
     "completed_notes_count": 1,
     "details": "C、C++ 笔记",
-    "link": "https://tdahuyou.github.io/TNotes.c-cpp/",
+    "link": "https://tnotesjs.github.io/TNotes.c-cpp/",
     "created_at": 1737437192000,
     "updated_at": 1757163544670,
     "days_since_birth": 9339
@@ -36,7 +36,7 @@
     },
     {
       "text": "📒 TNotes",
-      "link": "https://tdahuyou.github.io/notes"
+      "link": "https://tnotesjs.github.io/notes"
     },
     {
       "text": "📂 TNotes.yuque",
