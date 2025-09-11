@@ -1,9 +1,7 @@
 {
   "author": "tnotesjs",
   "repoName": "TNotes.c-cpp",
-  "keywords": [
-    "TNotes.c-cpp"
-  ],
+  "keywords": ["TNotes.c-cpp"],
   "ignore_dirs": [
     ".vscode",
     "0000",
@@ -61,8 +59,8 @@
       }
     },
     {
-      "ariaLabel": "TNotes.template github 仓库链接",
-      "link": "https://github.com/tnotesjs/TNotes.template",
+      "ariaLabel": "TNotes.c-cpp github 仓库链接",
+      "link": "https://github.com/tnotesjs/TNotes.c-cpp",
       "icon": "github"
     }
   ],
