@@ -23,7 +23,7 @@
     "details": "C、C++ 笔记",
     "link": "https://tnotesjs.github.io/TNotes.c-cpp/",
     "created_at": 1737437192000,
-    "updated_at": 1757172128555,
+    "updated_at": 1757553994020,
     "days_since_birth": 9339
   },
   "port": 9339,
@@ -38,7 +38,7 @@
     },
     {
       "text": "📒 TNotes",
-      "link": "https://tnotesjs.github.io/notes"
+      "link": "https://tnotesjs.github.io/TNotes"
     },
     {
       "text": "📂 TNotes.yuque",
