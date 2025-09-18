@@ -123,7 +123,6 @@ watch(
   overflow-y: hidden;
   gap: 0.5rem;
   padding: 0 0.8rem;
-  background: var(--vp-c-bg);
   border-bottom: 1px solid var(--vp-c-divider);
   border-radius: 8px 8px 0 0;
   background-color: var(--vp-code-tab-bg);
