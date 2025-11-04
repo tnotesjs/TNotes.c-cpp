@@ -161,7 +161,7 @@ export class VitepressService {
 
       // 基于时间的进度估算（假设 15 秒完成）
       const timeBasedProgress = Math.min(90, Math.floor((elapsed / 15000) * 90))
-      
+
       // 如果基于时间的进度超过当前进度，更新它
       if (timeBasedProgress > currentProgress) {
         let stage = '处理中...'
@@ -170,7 +170,7 @@ export class VitepressService {
         else if (timeBasedProgress < 60) stage = '转换文件中'
         else if (timeBasedProgress < 80) stage = '构建页面'
         else stage = '即将完成'
-        
+
         updateProgress(timeBasedProgress, stage)
       }
     }, 300)
