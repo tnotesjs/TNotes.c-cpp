@@ -67,9 +67,6 @@ export class UpdateCommand extends BaseCommand {
     // 更新 root_item 配置
     await this.updateRootItem()
 
-    // 拷贝 sidebar.json 到根 TNotes 项目
-    await this.copySidebarToRoot()
-
     const duration = Date.now() - startTime
 
     if (this.quiet) {
@@ -135,59 +132,6 @@ export class UpdateCommand extends BaseCommand {
     } catch (error) {
       this.logger.warn(`获取完成笔记数量失败: ${error}`)
       return 0
-    }
-  }
-
-  /**
-   * 拷贝 sidebar.json 到根 TNotes 项目
-   */
-  private async copySidebarToRoot(): Promise<void> {
-    try {
-      const config = getTnotesConfig()
-      const rootSidebarDir = config.rootSidebarDir
-
-      // 如果没有配置 rootSidebarDir，跳过
-      if (!rootSidebarDir) {
-        return
-      }
-
-      // 源文件路径：当前项目的 sidebar.json
-      const sourcePath = resolve(ROOT_DIR_PATH, 'sidebar.json')
-
-      // 检查源文件是否存在
-      if (!existsSync(sourcePath)) {
-        if (!this.quiet) {
-          this.logger.warn('sidebar.json 文件不存在，跳过拷贝')
-        }
-        return
-      }
-
-      // 目标目录：基于 TNOTES_BASE_DIR 和 rootSidebarDir 构建完整路径
-      const targetDir = resolve(TNOTES_BASE_DIR, rootSidebarDir)
-
-      // 确保目标目录存在
-      if (!existsSync(targetDir)) {
-        mkdirSync(targetDir, { recursive: true })
-      }
-
-      // 目标文件路径：使用仓库名作为文件名
-      const repoName = config.repoName
-      const targetPath = resolve(targetDir, `${repoName}.json`)
-
-      // 拷贝文件
-      copyFileSync(sourcePath, targetPath)
-
-      if (!this.quiet) {
-        this.logger.success(`已将 sidebar.json 拷贝到: ${targetPath}`)
-      }
-    } catch (error) {
-      if (!this.quiet) {
-        this.logger.error(
-          `拷贝 sidebar.json 失败: ${
-            error instanceof Error ? error.message : String(error)
-          }`
-        )
-      }
     }
   }
 }
