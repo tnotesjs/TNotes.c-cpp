@@ -2,8 +2,7 @@
 
 <!-- region:toc -->
 
-- [c-cpp](#c-cpp)
-  - [1. 学习环境搭建](#1-学习环境搭建)
+
 
 <!-- endregion:toc -->
 
