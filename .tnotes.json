@@ -19,11 +19,24 @@
       "src": "https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/assets/icon--c-cpp.svg"
     },
     "title": "c-cpp",
-    "completed_notes_count": {},
+    "completed_notes_count": {
+      "25.01": 0,
+      "25.02": 0,
+      "25.03": 0,
+      "25.04": 0,
+      "25.05": 0,
+      "25.06": 0,
+      "25.07": 1,
+      "25.08": 1,
+      "25.09": 1,
+      "25.10": 1,
+      "25.11": 1,
+      "25.12": 0
+    },
     "details": "C、C++ 笔记",
     "link": "https://tnotesjs.github.io/TNotes.c-cpp/",
     "created_at": 1737437192000,
-    "updated_at": 1762780401432,
+    "updated_at": 1764548493932,
     "days_since_birth": 9339
   },
   "port": 9339,
