@@ -1,11 +1,213 @@
 [
   {
-    "text": "1. 学习环境搭建",
+    "text": "1. 概述",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "⏰ 0002. new",
+        "link": "/notes/0002. new/README"
+      }
+    ]
+  },
+  {
+    "text": "2. 学习环境搭建",
     "collapsed": true,
     "items": [
       {
         "text": "✅ 0001. 搭建 C、C++ 本地学习环境",
         "link": "/notes/0001. 搭建 C、C++ 本地学习环境/README"
+      },
+      {
+        "text": "⏰ 0003. new",
+        "link": "/notes/0003. new/README"
+      },
+      {
+        "text": "⏰ 0004. new",
+        "link": "/notes/0004. new/README"
+      },
+      {
+        "text": "⏰ 0005. new",
+        "link": "/notes/0005. new/README"
+      },
+      {
+        "text": "⏰ 0006. new",
+        "link": "/notes/0006. new/README"
+      },
+      {
+        "text": "⏰ 0007. new",
+        "link": "/notes/0007. new/README"
+      },
+      {
+        "text": "⏰ 0008. new",
+        "link": "/notes/0008. new/README"
+      },
+      {
+        "text": "⏰ 0009. new",
+        "link": "/notes/0009. new/README"
+      },
+      {
+        "text": "⏰ 0010. new",
+        "link": "/notes/0010. new/README"
+      },
+      {
+        "text": "⏰ 0011. new",
+        "link": "/notes/0011. new/README"
+      },
+      {
+        "text": "⏰ 0012. new",
+        "link": "/notes/0012. new/README"
+      },
+      {
+        "text": "⏰ 0013. new",
+        "link": "/notes/0013. new/README"
+      },
+      {
+        "text": "⏰ 0014. new",
+        "link": "/notes/0014. new/README"
+      },
+      {
+        "text": "⏰ 0015. new",
+        "link": "/notes/0015. new/README"
+      },
+      {
+        "text": "⏰ 0016. new",
+        "link": "/notes/0016. new/README"
+      },
+      {
+        "text": "⏰ 0017. new",
+        "link": "/notes/0017. new/README"
+      },
+      {
+        "text": "⏰ 0018. new",
+        "link": "/notes/0018. new/README"
+      },
+      {
+        "text": "⏰ 0019. new",
+        "link": "/notes/0019. new/README"
+      },
+      {
+        "text": "⏰ 0020. new",
+        "link": "/notes/0020. new/README"
+      },
+      {
+        "text": "⏰ 0021. new",
+        "link": "/notes/0021. new/README"
+      },
+      {
+        "text": "⏰ 0022. new",
+        "link": "/notes/0022. new/README"
+      },
+      {
+        "text": "⏰ 0023. new",
+        "link": "/notes/0023. new/README"
+      },
+      {
+        "text": "⏰ 0024. new",
+        "link": "/notes/0024. new/README"
+      },
+      {
+        "text": "⏰ 0025. new",
+        "link": "/notes/0025. new/README"
+      },
+      {
+        "text": "⏰ 0026. new",
+        "link": "/notes/0026. new/README"
+      },
+      {
+        "text": "⏰ 0027. new",
+        "link": "/notes/0027. new/README"
+      },
+      {
+        "text": "⏰ 0028. new",
+        "link": "/notes/0028. new/README"
+      },
+      {
+        "text": "⏰ 0029. new",
+        "link": "/notes/0029. new/README"
+      },
+      {
+        "text": "⏰ 0030. new",
+        "link": "/notes/0030. new/README"
+      },
+      {
+        "text": "⏰ 0031. new",
+        "link": "/notes/0031. new/README"
+      },
+      {
+        "text": "⏰ 0032. new",
+        "link": "/notes/0032. new/README"
+      },
+      {
+        "text": "⏰ 0033. new",
+        "link": "/notes/0033. new/README"
+      },
+      {
+        "text": "⏰ 0034. new",
+        "link": "/notes/0034. new/README"
+      },
+      {
+        "text": "⏰ 0035. new",
+        "link": "/notes/0035. new/README"
+      },
+      {
+        "text": "⏰ 0036. new",
+        "link": "/notes/0036. new/README"
+      },
+      {
+        "text": "⏰ 0037. new",
+        "link": "/notes/0037. new/README"
+      },
+      {
+        "text": "⏰ 0038. new",
+        "link": "/notes/0038. new/README"
+      },
+      {
+        "text": "⏰ 0039. new",
+        "link": "/notes/0039. new/README"
+      },
+      {
+        "text": "⏰ 0040. new",
+        "link": "/notes/0040. new/README"
+      },
+      {
+        "text": "⏰ 0041. new",
+        "link": "/notes/0041. new/README"
+      },
+      {
+        "text": "⏰ 0042. new",
+        "link": "/notes/0042. new/README"
+      },
+      {
+        "text": "⏰ 0043. new",
+        "link": "/notes/0043. new/README"
+      },
+      {
+        "text": "⏰ 0044. new",
+        "link": "/notes/0044. new/README"
+      },
+      {
+        "text": "⏰ 0045. new",
+        "link": "/notes/0045. new/README"
+      },
+      {
+        "text": "⏰ 0046. new",
+        "link": "/notes/0046. new/README"
+      },
+      {
+        "text": "⏰ 0047. new",
+        "link": "/notes/0047. new/README"
+      },
+      {
+        "text": "⏰ 0048. new",
+        "link": "/notes/0048. new/README"
+      },
+      {
+        "text": "⏰ 0049. new",
+        "link": "/notes/0049. new/README"
+      },
+      {
+        "text": "⏰ 0050. new",
+        "link": "/notes/0050. new/README"
       }
     ]
   }
