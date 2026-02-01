@@ -100,10 +100,7 @@ results
 *.bin
 
 # 忽略编译输出 - 基于目录的规则
-notes/**/demos/**/
-!notes/**/demos/**/*.c
-!notes/**/demos/**/*.cpp
-!notes/**/demos/**/*.h
+notes/**/demos/**/build
 
 # 忽略常见的编译输出
 a.out

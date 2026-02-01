@@ -7,14 +7,11 @@
 - [3. 🤔 推荐用什么 IDE？](#3--推荐用什么-ide)
 - [4. 🤔 需要安装哪些 VSCode 插件？](#4--需要安装哪些-vscode-插件)
 - [5. 🤔 如何在 macOS 上初始化 C、C++ 的基本学习环境？](#5--如何在-macos-上初始化-cc-的基本学习环境)
-- [6. 🤔 如何在 win11 上初始化 C、C++ 的基本学习环境？](#6--如何在-win11-上初始化-cc-的基本学习环境)
-  - [6.1. 基础学习环境简介](#61-基础学习环境简介)
-  - [6.2. 安装 GCC](#62-安装-gcc)
-  - [6.3. 🤔 安装 GCC 有什么用？](#63--安装-gcc-有什么用)
-  - [6.4. 📒 安装 VSCode 插件 - Code Runner](#64--安装-vscode-插件---code-runner)
-- [7. 📒 查看 Code Runner 运行 C、CPP 的基本原理](#7--查看-code-runner-运行-ccpp-的基本原理)
-- [8. 💻 demos.1 - 第一个 C 语言程序 - 在控制台打印 Hello World](#8--demos1---第一个-c-语言程序---在控制台打印-hello-world)
-- [9. 🔗 引用](#9--引用)
+- [6. 🤔 Code Runner 一键运行 C、CPP 的原理是？](#6--code-runner-一键运行-ccpp-的原理是)
+- [7. 🤔 如何让 git 忽略编译产物？](#7--如何让-git-忽略编译产物)
+- [8. 🤔 如何在 Windows 上初始化 C、C++ 的基本学习环境？](#8--如何在-windows-上初始化-cc-的基本学习环境)
+- [9. 💻 demos.1 - 第一个 C 语言程序 - 在控制台打印 Hello World](#9--demos1---第一个-c-语言程序---在控制台打印-hello-world)
+- [10. 🔗 引用](#10--引用)
 
 <!-- endregion:toc -->
 
@@ -25,6 +22,8 @@
 ## 2. 🫧 评价
 
 这篇笔记主要介绍如何在 Windows 和 macOS 上搭建 C、C++ 的基本学习环境，确保在学习语法及语言核心特性阶段所编写的程序可以编译并执行。
+
+搭建学习环境，核心就是安装 C、C++ 编译器（如 gcc、g++、clang 等），以及选择一个合适的代码编辑器（如 VSCode）来编写和运行代码。
 
 环境搭建完成后，编写第一个 Hello World 程序，并理解 VSCode 中的插件 Code Runner 快速执行 `.c`、`.cpp` 文件的基本原理。
 
@@ -61,75 +60,127 @@ clang --version
 # InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
 ```
 
-如果需要更新或安装完整工具链，建议安装 Homebrew 后安装：
+选中需要运行的文件，然后右键，选择 `Run Code` 即可运行 C、C++ 程序。
 
-```bash
-# 安装 Homebrew（如未安装）
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+![img](https://cdn.jsdelivr.net/gh/tnotesjs/imgs-2026@main/2026-02-01-23-59-31.png)
 
-# 安装 GCC 和 Make
-brew install gcc make
-```
+输出：
 
-## 6. 🤔 如何在 win11 上初始化 C、C++ 的基本学习环境？
+![img](https://cdn.jsdelivr.net/gh/tnotesjs/imgs-2026@main/2026-02-02-00-00-05.png)
 
-- 安装好 GCC 和 VSCode 插件 - Code Runner；
-- 编写一个 Hello World 程序，并理解 Code Runner 快速执行 .c 文件的基本原理；
+## 6. 🤔 Code Runner 一键运行 C、CPP 的原理是？
 
-### 6.1. 基础学习环境简介
+打开 VSCode 设置，搜索 `code-runner.executorMap`，在配置文件中查看 `code-runner.executorMap` 的配置。
 
-- 编译器：GCC
-- IDE：VSCode
-- 目标：能够运行 C、CPP 程序，学习 C、CPP 语言层面的一些基础知识
+::: swiper
 
-### 6.2. 安装 GCC
+![1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs-2026@main/2026-02-02-00-17-43.png)
 
-- https://blog.csdn.net/weixin_64064486/article/details/123940266
-  - CSDN 文章 - Windows 下 GCC 安装和使用
-  - 作者：丸子爱学习！
-  - 跟着文章中提到的步骤完成 GCC 的安装即可。
-  - 注意：
-    - 环境变量配置好以后，需要重启 VSCode。
-    - VS Code 启动后会缓存系统环境变量，如果你在配置了 `PATH` 环境变量后没有重新启动 VS Code，它可能仍然无法找到 `gcc`。
-- https://sourceforge.net/projects/mingw/files/
-  - mingw 下载链接
+![2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs-2026@main/2026-02-02-00-17-50.png)
 
-### 6.3. 🤔 安装 GCC 有什么用？
+:::
 
-- 这玩意儿是 C、C++ 的编译器，C、C++ 和 JS、Python 这些解释型语言不同，是需要编译成可执行程序（`.exe` 文件）执行的，简单来说 GCC 是用来跑咱们写的 C、C++ 的 demo 的。
+`"c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"`
 
-### 6.4. 📒 安装 VSCode 插件 - Code Runner
+1. `cd $dir` 切换到对应的目录；
+2. `&& gcc $fileName -o $fileNameWithoutExt` 使用 gcc 对指定文件进行编译，并且输出的可执行文件名称和当前运行的文件名称相同；
+3. `&& $dir$fileNameWithoutExt` 运行编译后的可执行文件；
 
-- ![img](assets/2025-01-21-11-22-51.png)
-- 为了跟方便地直接在 VSCode 中运行 C 程序。
-- 注意：
-  - 如果不安装 GCC 的话，这玩意儿是没法直接用来跑 C、CPP 程序的。
+由此可见，如果你本地没有安装 gcc 编译器，那么 Code Runner 插件就无法正常工作。
 
-## 7. 📒 查看 Code Runner 运行 C、CPP 的基本原理
+## 7. 🤔 如何让 git 忽略编译产物？
 
-- 打开 VSCode 设置，搜索 `code-runner.executorMap`，在配置文件中查看 `code-runner.executorMap` 的配置。
-  - ![img](assets/2025-01-21-11-33-53.png)
-  - ![img](assets/2025-01-21-11-34-45.png)
-- `"c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"`
-  1. `cd $dir` 切换到对应的目录；
-  2. `&& gcc $fileName -o $fileNameWithoutExt` 使用 gcc 对指定文件进行编译，并且输出的可执行文件名称和当前运行的文件名称相同；
-  3. `&& $dir$fileNameWithoutExt` 运行编译后的可执行文件；
+::: info 备注
 
-## 8. 💻 demos.1 - 第一个 C 语言程序 - 在控制台打印 Hello World
+这主要是开源的 TNotes.c-cpp 需要解决的一个问题 —— 避免将不必要的编译产物推送到仓库中，和 C、C++ 的学习环境搭建没有直接关系。
 
-```c
-#include <stdio.h>
+:::
 
-int main()
+可以通过编写 `.vscode/settings.json` 文件，配置 Code Runner 插件的编译输出目录为 `build`，然后在项目根目录下创建 `.gitignore` 文件，添加配置 `notes/**/demos/**/build`。
+
+VSCode Code Runner 插件配置示例：
+
+```json
 {
-  printf("Hello World\n");
-  return 0;
+  "code-runner.executorMap": {
+    "c": "cd $dir && mkdir -p build && gcc $fileName -o build/$fileNameWithoutExt && $dir/build/$fileNameWithoutExt",
+    "cpp": "cd $dir && mkdir -p build && g++ $fileName -o build/$fileNameWithoutExt && $dir/build/$fileNameWithoutExt"
+  },
+  "code-runner.preserveFocus": false,
+  "code-runner.clearPreviousOutput": true
 }
 ```
 
-- 运行：
-  - ![img](assets/2025-01-21-13-07-22.png)
-- 分析 code runner 的执行原理：
+配置解释：
+
+- `cd $dir`：切换到当前文件所在目录
+- `mkdir -p build`：创建 build 目录用于存放编译产物，-p 参数确保目录存在时不报错
+- `gcc $fileName -o build/$fileNameWithoutExt`：编译源文件并将可执行文件输出到 build 目录
+- `$fileNameWithoutExt`：获取不含扩展名的文件名作为可执行文件名
+- `$dir/build/$fileNameWithoutExt`：运行 build 目录下的可执行文件
+
+这样配置后，所有编译产物都会保存在 build 目录中，便于 Git 忽略，保持源码目录整洁。
+
+---
+
+或者更直接一些：
+
+```json
+{
+  "code-runner.executorMap": {
+    "c": "cd $dir && gcc $fileName -o temp_executable && ./temp_executable && rm temp_executable",
+    "cpp": "cd $dir && g++ $fileName -o temp_executable && ./temp_executable && rm temp_executable"
+  }
+}
+```
+
+配置解释：
+
+- `cd $dir`：切换到当前文件所在目录
+- `gcc $fileName -o temp_executable`：编译源文件并将可执行文件输出为临时可执行文件
+- `./temp_executable`：运行临时可执行文件
+- `rm temp_executable`：运行后删除临时可执行文件，保持目录整洁
+
+## 8. 🤔 如何在 Windows 上初始化 C、C++ 的基本学习环境？
+
+安装编译器（推荐两种方案）：
+
+- 方案一：使用 MinGW-w64（简单推荐）
+  1. 下载 [MinGW-w64][4]
+  2. 安装时选择：
+     - Architecture：x86_64
+     - Threads：posix
+     - Exception：seh
+  3. 将 `mingw64\bin` 添加到系统 PATH
+- 方案二：使用 MSYS2（功能更全）
+
+```bash
+# 安装后运行
+pacman -Syu
+pacman -S --needed base-devel mingw-w64-x86_64-toolchain
+```
+
+验证编译器是否安装完成：
+
+```bash
+gcc --version
+```
+
+## 9. 💻 demos.1 - 第一个 C 语言程序 - 在控制台打印 Hello World
+
+::: code-group
+
+<<< ./demos/1/1.c
+
+<<< ./demos/1/1.cpp
+
+:::
+
+使用 Code Runner 运行：
+
+![img](https://cdn.jsdelivr.net/gh/tnotesjs/imgs-2026@main/2026-02-02-00-23-53.png)
+
+通过输出内容分析 Code Runner 的执行原理：
 
 ```shell
 # cd "c:\Users\Tdahuyou\Desktop\notes\c-cpp\0001. 在 win11 上搭建 C 的基本学习环境\demos\1\" && gcc 1.c -o 1 && "c:\Users\Tdahuyou\Desktop\notes\c-cpp\0001. 在 win11 上搭建 C 的基本学习环境\demos\1\"1
@@ -142,29 +193,32 @@ int main()
 # 3. "c:\Users\Tdahuyou\Desktop\notes\c-cpp\0001. 在 win11 上搭建 C 的基本学习环境\demos\1\"1
 ```
 
-- 在理解了原理之后，其实我们也可以手动输入执行命令：
+在理解了原理之后，其实我们也可以手动输入执行命令：
 
 ::: swiper
 
-![1](./assets/2025-01-21-13-13-26.png)
+![1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs-2026@main/2026-02-02-00-24-55.png)
 
-![2](./assets/2025-01-21-13-19-06.png)
+![2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs-2026@main/2026-02-02-00-25-05.png)
 
-![3](./assets/2025-01-21-13-22-18.png)
+![3](https://cdn.jsdelivr.net/gh/tnotesjs/imgs-2026@main/2026-02-02-00-25-12.png)
 
 :::
 
-- 也可以直接合并：
-  - powershell 环境：`gcc 1.c -o 1; .\1`
-  - CMD 环境：`gcc 1.c -o 1 && .\1`
-  - 后缀 .exe 可加可不加
+也可以直接合并：
 
-## 9. 🔗 引用
+- powershell 环境：`gcc 1.c -o 1; .\1`
+- CMD 环境：`gcc 1.c -o 1 && .\1`
+- 后缀 .exe 可加可不加
+
+## 10. 🔗 引用
 
 - [VSCode 官网][1]
 - [C/C++ (Microsoft) 插件][2]
 - [Code Runner 插件][3]
+- [Mingw-w64][4]
 
 [1]: https://code.visualstudio.com/
 [2]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
 [3]: https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
+[4]: https://sourceforge.net/projects/mingw-w64/
