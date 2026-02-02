@@ -4,18 +4,22 @@
 
 - [1. 概述](#1-概述)
 - [2. 学习环境搭建](#2-学习环境搭建)
+- [3. 其他](#3-其他)
 
 <!-- endregion:toc -->
 
 ## 1. 概述
 
-- [ ] [0002. new](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0002.%20new/README.md)
+- [x] [0002. 概述](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0002.%20%E6%A6%82%E8%BF%B0/README.md)
+- [x] [0003. TNotes.c-cpp 知识库简介](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0003.%20TNotes.c-cpp%20%E7%9F%A5%E8%AF%86%E5%BA%93%E7%AE%80%E4%BB%8B/README.md)
 
 ## 2. 学习环境搭建
 
 - [x] [0001. 搭建 C、C++ 本地学习环境](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0001.%20%E6%90%AD%E5%BB%BA%20C%E3%80%81C%2B%2B%20%E6%9C%AC%E5%9C%B0%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83/README.md)
-- [ ] [0003. new](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0003.%20new/README.md)
-- [ ] [0004. new](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0004.%20new/README.md)
+
+## 3. 其他
+
+- [ ] [0004. 其他](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0004.%20%E5%85%B6%E4%BB%96/README.md)
 - [ ] [0005. new](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0005.%20new/README.md)
 - [ ] [0006. new](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0006.%20new/README.md)
 - [ ] [0007. new](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0007.%20new/README.md)

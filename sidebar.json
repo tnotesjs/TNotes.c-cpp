@@ -4,8 +4,12 @@
     "collapsed": true,
     "items": [
       {
-        "text": "⏰ 0002. new",
-        "link": "/notes/0002. new/README"
+        "text": "✅ 0002. 概述",
+        "link": "/notes/0002. 概述/README"
+      },
+      {
+        "text": "✅ 0003. TNotes.c-cpp 知识库简介",
+        "link": "/notes/0003. TNotes.c-cpp 知识库简介/README"
       }
     ]
   },
@@ -16,14 +20,16 @@
       {
         "text": "✅ 0001. 搭建 C、C++ 本地学习环境",
         "link": "/notes/0001. 搭建 C、C++ 本地学习环境/README"
-      },
+      }
+    ]
+  },
+  {
+    "text": "3. 其他",
+    "collapsed": true,
+    "items": [
       {
-        "text": "⏰ 0003. new",
-        "link": "/notes/0003. new/README"
-      },
-      {
-        "text": "⏰ 0004. new",
-        "link": "/notes/0004. new/README"
+        "text": "⏰ 0004. 其他",
+        "link": "/notes/0004. 其他/README"
       },
       {
         "text": "⏰ 0005. new",

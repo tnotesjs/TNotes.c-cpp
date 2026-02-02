@@ -25,7 +25,7 @@
 
 搭建学习环境，核心就是安装 C、C++ 编译器（如 gcc、g++、clang 等），以及选择一个合适的代码编辑器（如 VSCode）来编写和运行代码。
 
-环境搭建完成后，编写第一个 Hello World 程序，并理解 VSCode 中的插件 Code Runner 快速执行 `.c`、`.cpp` 文件的基本原理。
+环境搭建完成后，会编写第一个 Hello World 程序，并简单介绍 VSCode 中的插件 Code Runner 快速执行 `.c`、`.cpp` 文件的基本原理。
 
 ## 3. 🤔 推荐用什么 IDE？
 

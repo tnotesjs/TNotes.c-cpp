@@ -2,11 +2,11 @@
   "bilibili": [],
   "tnotes": [],
   "yuque": [],
-  "done": false,
+  "done": true,
   "deprecated": false,
-  "enableDiscussions": false,
-  "description": "",
+  "enableDiscussions": true,
+  "description": "对 TNotes.c-cpp 知识库做了一个简单的介绍。",
   "id": "9911353d-a95e-47ba-8beb-5ee2e34482bc",
   "created_at": 1769963509316,
-  "updated_at": 1769963509316
+  "updated_at": 1770041299068
 }
