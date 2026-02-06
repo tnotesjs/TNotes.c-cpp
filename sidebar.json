@@ -22,6 +22,10 @@
     "collapsed": true,
     "items": [
       {
+        "text": "✅ 0004. 认识 C、C++ 语言",
+        "link": "/notes/0004. 认识 C、C++ 语言/README"
+      },
+      {
         "text": "✅ 0005. 软件与程序",
         "link": "/notes/0005. 软件与程序/README"
       },
@@ -379,10 +383,6 @@
     "text": "15. 其他",
     "collapsed": true,
     "items": [
-      {
-        "text": "⏰ 0004. 其他",
-        "link": "/notes/0004. 其他/README"
-      },
       {
         "text": "⏰ 0075. new",
         "link": "/notes/0075. new/README"

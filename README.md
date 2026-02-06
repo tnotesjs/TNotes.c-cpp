@@ -28,6 +28,7 @@
 
 ## 2. 认识 C、C++ 语言
 
+- [x] [0004. 认识 C、C++ 语言](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0004.%20%E8%AE%A4%E8%AF%86%20C%E3%80%81C%2B%2B%20%E8%AF%AD%E8%A8%80/README.md)
 - [x] [0005. 软件与程序](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0005.%20%E8%BD%AF%E4%BB%B6%E4%B8%8E%E7%A8%8B%E5%BA%8F/README.md)
 - [x] [0006. 程序设计语言简介](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0006.%20%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%E7%AE%80%E4%BB%8B/README.md)
 - [ ] [0007. C 语言历史](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0007.%20C%20%E8%AF%AD%E8%A8%80%E5%8E%86%E5%8F%B2/README.md)
@@ -137,7 +138,6 @@
 
 ## 15. 其他
 
-- [ ] [0004. 其他](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0004.%20%E5%85%B6%E4%BB%96/README.md)
 - [ ] [0075. new](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0075.%20new/README.md)
 - [ ] [0076. new](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0076.%20new/README.md)
 - [ ] [0077. new](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0077.%20new/README.md)
