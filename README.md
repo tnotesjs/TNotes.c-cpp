@@ -159,3 +159,4 @@
 - [ ] [0098. new](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0098.%20new/README.md)
 - [ ] [0099. new](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0099.%20new/README.md)
 - [ ] [0100. new](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0100.%20new/README.md)
+- [ ] [0027. xxx](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0027.%20xxx/README.md)
