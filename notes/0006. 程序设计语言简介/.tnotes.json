@@ -2,11 +2,11 @@
   "bilibili": [],
   "tnotes": [],
   "yuque": [],
-  "done": false,
+  "done": true,
   "deprecated": false,
-  "enableDiscussions": false,
-  "description": "",
+  "enableDiscussions": true,
+  "description": "本节内容不是很重要，大多是一些概念性的内容，理解这些概念，可以适当加深我们对 C/C++ 语言的理解。",
   "id": "6224d359-61c0-49f2-9a39-830299745649",
   "created_at": 1769963509319,
-  "updated_at": 1770381032758
+  "updated_at": 1770397532744
 }
