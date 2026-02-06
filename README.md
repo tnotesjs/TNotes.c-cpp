@@ -23,11 +23,12 @@
 
 - [x] [0002. 概述](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0002.%20%E6%A6%82%E8%BF%B0/README.md)
 - [x] [0003. TNotes.c-cpp 知识库简介](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0003.%20TNotes.c-cpp%20%E7%9F%A5%E8%AF%86%E5%BA%93%E7%AE%80%E4%BB%8B/README.md)
+- [x] [0027. 学习资料](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0027.%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/README.md)
 
 ## 2. 学习环境搭建
 
 - [x] [0001. 搭建 C、C++ 本地学习环境](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0001.%20%E6%90%AD%E5%BB%BA%20C%E3%80%81C%2B%2B%20%E6%9C%AC%E5%9C%B0%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83/README.md)
-- [ ] [0005. 软件与程序](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0005.%20%E8%BD%AF%E4%BB%B6%E4%B8%8E%E7%A8%8B%E5%BA%8F/README.md)
+- [x] [0005. 软件与程序](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0005.%20%E8%BD%AF%E4%BB%B6%E4%B8%8E%E7%A8%8B%E5%BA%8F/README.md)
 - [ ] [0006. 程序设计语言简介](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0006.%20%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%E7%AE%80%E4%BB%8B/README.md)
 - [ ] [0007. C 语言历史](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0007.%20C%20%E8%AF%AD%E8%A8%80%E5%8E%86%E5%8F%B2/README.md)
 
@@ -159,4 +160,3 @@
 - [ ] [0098. new](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0098.%20new/README.md)
 - [ ] [0099. new](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0099.%20new/README.md)
 - [ ] [0100. new](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0100.%20new/README.md)
-- [ ] [0027. xxx](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0027.%20xxx/README.md)

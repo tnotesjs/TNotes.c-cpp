@@ -10,6 +10,10 @@
       {
         "text": "✅ 0003. TNotes.c-cpp 知识库简介",
         "link": "/notes/0003. TNotes.c-cpp 知识库简介/README"
+      },
+      {
+        "text": "✅ 0027. 学习资料",
+        "link": "/notes/0027. 学习资料/README"
       }
     ]
   },
@@ -22,7 +26,7 @@
         "link": "/notes/0001. 搭建 C、C++ 本地学习环境/README"
       },
       {
-        "text": "⏰ 0005. 软件与程序",
+        "text": "✅ 0005. 软件与程序",
         "link": "/notes/0005. 软件与程序/README"
       },
       {
@@ -476,10 +480,6 @@
       {
         "text": "⏰ 0100. new",
         "link": "/notes/0100. new/README"
-      },
-      {
-        "text": "⏰ 0027. xxx",
-        "link": "/notes/0027. xxx/README"
       }
     ]
   }
