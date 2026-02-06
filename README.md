@@ -61,7 +61,6 @@
 - [ ] [0024. 指针与数组](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0024.%20%E6%8C%87%E9%92%88%E4%B8%8E%E6%95%B0%E7%BB%84/README.md)
 - [ ] [0025. 指针与结构](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0025.%20%E6%8C%87%E9%92%88%E4%B8%8E%E7%BB%93%E6%9E%84/README.md)
 - [ ] [0026. 二重指针](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0026.%20%E4%BA%8C%E9%87%8D%E6%8C%87%E9%92%88/README.md)
-- [ ] [0027. 二重指针](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0027.%20%E4%BA%8C%E9%87%8D%E6%8C%87%E9%92%88/README.md)
 - [ ] [0028. 动态内存](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0028.%20%E5%8A%A8%E6%80%81%E5%86%85%E5%AD%98/README.md)
 
 ## 7. 函数
