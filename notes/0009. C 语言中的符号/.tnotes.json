@@ -2,11 +2,11 @@
   "bilibili": [],
   "tnotes": [],
   "yuque": [],
-  "done": false,
+  "done": true,
   "deprecated": false,
-  "enableDiscussions": false,
-  "description": "",
+  "enableDiscussions": true,
+  "description": "对 .c、.cpp 文件中会出现的所有符号做一个基本的介绍，很多符号的具体作用，会在后续的学习中详细说明。",
   "id": "62c0e3d3-f39b-41ea-a6fd-f944a2dd2e07",
   "created_at": 1769963509322,
-  "updated_at": 1770381032758
+  "updated_at": 1770455421871
 }

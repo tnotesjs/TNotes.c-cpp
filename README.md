@@ -36,7 +36,7 @@
 
 - [ ] [0008. 数据类型与表达式](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0008.%20%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%B8%8E%E8%A1%A8%E8%BE%BE%E5%BC%8F/README.md)
 - [x] [0001. 搭建 C、C++ 本地学习环境](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0001.%20%E6%90%AD%E5%BB%BA%20C%E3%80%81C%2B%2B%20%E6%9C%AC%E5%9C%B0%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83/README.md)
-- [ ] [0009. C 语言中的符号](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0009.%20C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84%E7%AC%A6%E5%8F%B7/README.md)
+- [x] [0009. C 语言中的符号](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0009.%20C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84%E7%AC%A6%E5%8F%B7/README.md)
 - [ ] [0010. C 语言中的数据类型](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0010.%20C%20%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/README.md)
 - [ ] [0011. 常量与变量](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0011.%20%E5%B8%B8%E9%87%8F%E4%B8%8E%E5%8F%98%E9%87%8F/README.md)
 - [ ] [0012. 基本运算](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0012.%20%E5%9F%BA%E6%9C%AC%E8%BF%90%E7%AE%97/README.md)
