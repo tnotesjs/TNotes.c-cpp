@@ -34,28 +34,22 @@
         "link": "/notes/0006. 程序设计语言简介/README"
       },
       {
-        "text": "⏰ 0007. C 语言历史",
+        "text": "✅ 0007. C 语言历史",
         "link": "/notes/0007. C 语言历史/README"
       }
     ]
   },
   {
-    "text": "3. 学习环境初始化",
-    "collapsed": true,
-    "items": [
-      {
-        "text": "✅ 0001. 搭建 C、C++ 本地学习环境",
-        "link": "/notes/0001. 搭建 C、C++ 本地学习环境/README"
-      }
-    ]
-  },
-  {
-    "text": "4. 数据类型与表达式",
+    "text": "3. 数据类型与表达式",
     "collapsed": true,
     "items": [
       {
         "text": "⏰ 0008. 数据类型与表达式",
         "link": "/notes/0008. 数据类型与表达式/README"
+      },
+      {
+        "text": "✅ 0001. 搭建 C、C++ 本地学习环境",
+        "link": "/notes/0001. 搭建 C、C++ 本地学习环境/README"
       },
       {
         "text": "⏰ 0009. C 语言中的符号",
@@ -84,7 +78,7 @@
     ]
   },
   {
-    "text": "5. 控制语句",
+    "text": "4. 控制语句",
     "collapsed": true,
     "items": [
       {
@@ -110,7 +104,7 @@
     ]
   },
   {
-    "text": "6. 数组与结构",
+    "text": "5. 数组与结构",
     "collapsed": true,
     "items": [
       {
@@ -128,7 +122,7 @@
     ]
   },
   {
-    "text": "7. 指针",
+    "text": "6. 指针",
     "collapsed": true,
     "items": [
       {
@@ -154,7 +148,7 @@
     ]
   },
   {
-    "text": "8. 函数",
+    "text": "7. 函数",
     "collapsed": true,
     "items": [
       {
@@ -196,7 +190,7 @@
     ]
   },
   {
-    "text": "9. C++ 基础",
+    "text": "8. C++ 基础",
     "collapsed": true,
     "items": [
       {
@@ -238,7 +232,7 @@
     ]
   },
   {
-    "text": "10. 类与对象基本概念",
+    "text": "9. 类与对象基本概念",
     "collapsed": true,
     "items": [
       {
@@ -316,7 +310,7 @@
     ]
   },
   {
-    "text": "11. 多态",
+    "text": "10. 多态",
     "collapsed": true,
     "items": [
       {
@@ -342,7 +336,7 @@
     ]
   },
   {
-    "text": "12. 模板",
+    "text": "11. 模板",
     "collapsed": true,
     "items": [
       {
@@ -360,7 +354,7 @@
     ]
   },
   {
-    "text": "13. 命名空间",
+    "text": "12. 命名空间",
     "collapsed": true,
     "items": [
       {
@@ -370,7 +364,7 @@
     ]
   },
   {
-    "text": "14. 异常处理",
+    "text": "13. 异常处理",
     "collapsed": true,
     "items": [
       {
@@ -380,7 +374,7 @@
     ]
   },
   {
-    "text": "15. 其他",
+    "text": "14. 其他",
     "collapsed": true,
     "items": [
       {
