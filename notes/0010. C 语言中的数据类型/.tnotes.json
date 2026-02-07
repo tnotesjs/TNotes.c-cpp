@@ -2,11 +2,11 @@
   "bilibili": [],
   "tnotes": [],
   "yuque": [],
-  "done": false,
+  "done": true,
   "deprecated": false,
-  "enableDiscussions": false,
-  "description": "",
+  "enableDiscussions": true,
+  "description": "对 C 语言中和数据类型相关的知识点做了汇总，涵盖了从基本类型到平台差异等关键概念。",
   "id": "ce558e34-9fc4-4b17-be35-57ef74e6eb6c",
   "created_at": 1769963509322,
-  "updated_at": 1770381032758
+  "updated_at": 1770463094175
 }
