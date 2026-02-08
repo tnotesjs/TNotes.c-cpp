@@ -323,14 +323,7 @@
   // 禁用 Less 内置验证
   "less.validate": false,
   // 禁用 SCSS 内置验证
-  "scss.validate": false,
-
-  "code-runner.executorMap": {
-    "c": "cd $dir && mkdir -p build && gcc $fileName -o build/$fileNameWithoutExt && $dir/build/$fileNameWithoutExt",
-    "cpp": "cd $dir && mkdir -p build && g++ $fileName -o build/$fileNameWithoutExt && $dir/build/$fileNameWithoutExt"
-  },
-  "code-runner.preserveFocus": false,
-  "code-runner.clearPreviousOutput": true
+  "scss.validate": false
 
   // #endregion - Others（其他相关配置）
 
