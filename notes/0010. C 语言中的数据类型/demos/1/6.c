@@ -4,14 +4,14 @@ typedef unsigned long size_type;
 typedef unsigned char byte_t;
 
 int main(void) {
-  printf("typedef 类型别名演示\n");
-  size_type size = 1024;
-  byte_t byte = 255;
-  printf("size_type (unsigned long) 值: %lu\n", size);
-  printf("byte_t (unsigned char) 值:    %u\n", byte);
-  printf("\n");
+    printf("typedef 类型别名演示\n");
+    size_type size = 1024;
+    byte_t byte = 255;
+    printf("size_type (unsigned long) 值: %lu\n", size);
+    printf("byte_t (unsigned char) 值:    %u\n", byte);
+    printf("\n");
 
-  return 0;
+    return 0;
 }
 
 /*

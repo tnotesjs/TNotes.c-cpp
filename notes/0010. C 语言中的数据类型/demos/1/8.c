@@ -1,17 +1,17 @@
 #include <stdio.h>
 
 int main(void) {
-  printf("浮点数精度差异演示\n");
-  float f = 1.0f / 3.0f;
-  double d = 1.0 / 3.0;
-  long double ld = 1.0L / 3.0L;
+    printf("浮点数精度差异演示\n");
+    float f = 1.0f / 3.0f;
+    double d = 1.0 / 3.0;
+    long double ld = 1.0L / 3.0L;
 
-  printf("float:       %.20f\n", f);
-  printf("double:      %.20lf\n", d);
-  printf("long double: %.20Lf\n", ld);
-  printf("\n");
+    printf("float:       %.20f\n", f);
+    printf("double:      %.20lf\n", d);
+    printf("long double: %.20Lf\n", ld);
+    printf("\n");
 
-  return 0;
+    return 0;
 }
 
 /*
