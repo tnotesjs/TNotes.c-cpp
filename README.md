@@ -3,7 +3,7 @@
 <!-- region:toc -->
 
 - [1. 概述](#1-概述)
-- [2. 认识 C、C++ 语言](#2-认识-cc-语言)
+- [2. 认识 C 语言](#2-认识-c-语言)
 - [3. 学习环境初始化](#3-学习环境初始化)
 - [4. 数据类型与表达式](#4-数据类型与表达式)
 - [5. 控制语句](#5-控制语句)
@@ -20,9 +20,9 @@
 - [x] [0003. TNotes.c-cpp 知识库简介](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0003.%20TNotes.c-cpp%20%E7%9F%A5%E8%AF%86%E5%BA%93%E7%AE%80%E4%BB%8B/README.md)
 - [x] [0027. 学习资料](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0027.%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/README.md)
 
-## 2. 认识 C、C++ 语言
+## 2. 认识 C 语言
 
-- [x] [0004. 认识 C、C++ 语言](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0004.%20%E8%AE%A4%E8%AF%86%20C%E3%80%81C%2B%2B%20%E8%AF%AD%E8%A8%80/README.md)
+- [x] [0004. 认识 C 语言](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0004.%20%E8%AE%A4%E8%AF%86%20C%20%E8%AF%AD%E8%A8%80/README.md)
 - [x] [0005. 软件与程序](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0005.%20%E8%BD%AF%E4%BB%B6%E4%B8%8E%E7%A8%8B%E5%BA%8F/README.md)
 - [x] [0006. 程序设计语言简介](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0006.%20%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%E7%AE%80%E4%BB%8B/README.md)
 - [x] [0007. C 语言历史](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0007.%20C%20%E8%AF%AD%E8%A8%80%E5%8E%86%E5%8F%B2/README.md)
@@ -30,7 +30,7 @@
 ## 3. 学习环境初始化
 
 - [x] [0075. 学习环境初始化](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0075.%20%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83%E5%88%9D%E5%A7%8B%E5%8C%96/README.md)
-- [x] [0001. 搭建 C、C++ 本地学习环境](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0001.%20%E6%90%AD%E5%BB%BA%20C%E3%80%81C%2B%2B%20%E6%9C%AC%E5%9C%B0%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83/README.md)
+- [x] [0001. 搭建 C 语言本地学习环境](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0001.%20%E6%90%AD%E5%BB%BA%20C%20%E8%AF%AD%E8%A8%80%E6%9C%AC%E5%9C%B0%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83/README.md)
 - [x] [0076. VSCode 推荐插件](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0076.%20VSCode%20%E6%8E%A8%E8%8D%90%E6%8F%92%E4%BB%B6/README.md)
 
 ## 4. 数据类型与表达式

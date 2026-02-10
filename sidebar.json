@@ -18,12 +18,12 @@
     ]
   },
   {
-    "text": "2. 认识 C、C++ 语言",
+    "text": "2. 认识 C 语言",
     "collapsed": true,
     "items": [
       {
-        "text": "✅ 0004. 认识 C、C++ 语言",
-        "link": "/notes/0004. 认识 C、C++ 语言/README"
+        "text": "✅ 0004. 认识 C 语言",
+        "link": "/notes/0004. 认识 C 语言/README"
       },
       {
         "text": "✅ 0005. 软件与程序",
@@ -48,8 +48,8 @@
         "link": "/notes/0075. 学习环境初始化/README"
       },
       {
-        "text": "✅ 0001. 搭建 C、C++ 本地学习环境",
-        "link": "/notes/0001. 搭建 C、C++ 本地学习环境/README"
+        "text": "✅ 0001. 搭建 C 语言本地学习环境",
+        "link": "/notes/0001. 搭建 C 语言本地学习环境/README"
       },
       {
         "text": "✅ 0076. VSCode 推荐插件",

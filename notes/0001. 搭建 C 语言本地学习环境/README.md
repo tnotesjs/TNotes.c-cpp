@@ -1,4 +1,4 @@
-# [0001. 搭建 C、C++ 本地学习环境](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0001.%20%E6%90%AD%E5%BB%BA%20C%E3%80%81C%2B%2B%20%E6%9C%AC%E5%9C%B0%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83)
+# [0001. 搭建 C 语言本地学习环境](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0001.%20%E6%90%AD%E5%BB%BA%20C%20%E8%AF%AD%E8%A8%80%E6%9C%AC%E5%9C%B0%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83)
 
 <!-- region:toc -->
 
