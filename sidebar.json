@@ -126,10 +126,6 @@
         "link": "/notes/0020. 数组与结构/README"
       },
       {
-        "text": "⏰ 0021. 数组与结构",
-        "link": "/notes/0021. 数组与结构/README"
-      },
-      {
         "text": "⏰ 0022. 结构",
         "link": "/notes/0022. 结构/README"
       }
@@ -450,6 +446,10 @@
       {
         "text": "⏰ 0074. new",
         "link": "/notes/0074. new/README"
+      },
+      {
+        "text": "⏰ 0021. new",
+        "link": "/notes/0021. new/README"
       }
     ]
   }

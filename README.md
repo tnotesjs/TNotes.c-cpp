@@ -54,7 +54,6 @@
 ## 6. 数组与结构
 
 - [ ] [0020. 数组与结构](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0020.%20%E6%95%B0%E7%BB%84%E4%B8%8E%E7%BB%93%E6%9E%84/README.md)
-- [ ] [0021. 数组与结构](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0021.%20%E6%95%B0%E7%BB%84%E4%B8%8E%E7%BB%93%E6%9E%84/README.md)
 - [ ] [0022. 结构](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0022.%20%E7%BB%93%E6%9E%84/README.md)
 
 ## 7. 指针
@@ -140,3 +139,4 @@
 - [ ] [0072. new](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0072.%20new/README.md)
 - [ ] [0073. new](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0073.%20new/README.md)
 - [ ] [0074. new](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0074.%20new/README.md)
+- [ ] [0021. new](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0021.%20new/README.md)
