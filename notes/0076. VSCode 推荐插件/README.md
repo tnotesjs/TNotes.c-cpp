@@ -1,4 +1,4 @@
-# [0076. VSCode 推荐插件](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0076.%20VSCode%20%E6%8E%A8%E8%8D%90%E6%8F%92%E4%BB%B6)
+# [0076. VSCode 推荐插件](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0076.%20VSCode%20%E6%8E%A8%E8%8D%90%E6%8F%92%E4%BB%B6)
 
 <!-- region:toc -->
 

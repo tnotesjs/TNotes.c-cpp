@@ -1,4 +1,4 @@
-# [0055. 拷贝构造函数](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0055.%20%E6%8B%B7%E8%B4%9D%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0)
+# [0055. 拷贝构造函数](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0055.%20%E6%8B%B7%E8%B4%9D%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0)
 
 <!-- region:toc -->
 

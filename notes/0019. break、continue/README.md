@@ -1,4 +1,4 @@
-# [0019. break、continue](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0019.%20break%E3%80%81continue)
+# [0019. break、continue](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0019.%20break%E3%80%81continue)
 
 <!-- region:toc -->
 

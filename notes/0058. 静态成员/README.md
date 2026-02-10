@@ -1,4 +1,4 @@
-# [0058. 静态成员](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0058.%20%E9%9D%99%E6%80%81%E6%88%90%E5%91%98)
+# [0058. 静态成员](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0058.%20%E9%9D%99%E6%80%81%E6%88%90%E5%91%98)
 
 <!-- region:toc -->
 

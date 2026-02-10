@@ -1,4 +1,4 @@
-# [0030. 认识函数](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0030.%20%E8%AE%A4%E8%AF%86%E5%87%BD%E6%95%B0)
+# [0030. 认识函数](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0030.%20%E8%AE%A4%E8%AF%86%E5%87%BD%E6%95%B0)
 
 <!-- region:toc -->
 

@@ -1,4 +1,4 @@
-# [0065. 多态](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0065.%20%E5%A4%9A%E6%80%81)
+# [0065. 多态](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0065.%20%E5%A4%9A%E6%80%81)
 
 <!-- region:toc -->
 

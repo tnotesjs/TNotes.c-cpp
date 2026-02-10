@@ -1,4 +1,4 @@
-# [0042. C++ 中的动态内存管理](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0042.%20C%2B%2B%20%E4%B8%AD%E7%9A%84%E5%8A%A8%E6%80%81%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86)
+# [0042. C++ 中的动态内存管理](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0042.%20C%2B%2B%20%E4%B8%AD%E7%9A%84%E5%8A%A8%E6%80%81%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86)
 
 <!-- region:toc -->
 

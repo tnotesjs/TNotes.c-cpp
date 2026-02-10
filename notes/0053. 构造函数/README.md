@@ -1,4 +1,4 @@
-# [0053. 构造函数](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0053.%20%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0)
+# [0053. 构造函数](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0053.%20%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0)
 
 <!-- region:toc -->
 

@@ -1,4 +1,4 @@
-# [0029. 函数](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0029.%20%E5%87%BD%E6%95%B0)
+# [0029. 函数](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0029.%20%E5%87%BD%E6%95%B0)
 
 <!-- region:toc -->
 

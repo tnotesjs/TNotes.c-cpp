@@ -1,4 +1,4 @@
-# [0075. 学习环境初始化](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0075.%20%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83%E5%88%9D%E5%A7%8B%E5%8C%96)
+# [0075. 学习环境初始化](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0075.%20%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83%E5%88%9D%E5%A7%8B%E5%8C%96)
 
 <!-- region:toc -->
 

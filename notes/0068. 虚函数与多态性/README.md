@@ -1,4 +1,4 @@
-# [0068. 虚函数与多态性](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0068.%20%E8%99%9A%E5%87%BD%E6%95%B0%E4%B8%8E%E5%A4%9A%E6%80%81%E6%80%A7)
+# [0068. 虚函数与多态性](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0068.%20%E8%99%9A%E5%87%BD%E6%95%B0%E4%B8%8E%E5%A4%9A%E6%80%81%E6%80%A7)
 
 <!-- region:toc -->
 

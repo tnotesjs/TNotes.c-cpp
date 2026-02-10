@@ -1,4 +1,4 @@
-# [0070. 模板](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0070.%20%E6%A8%A1%E6%9D%BF)
+# [0070. 模板](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0070.%20%E6%A8%A1%E6%9D%BF)
 
 <!-- region:toc -->
 

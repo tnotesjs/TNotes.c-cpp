@@ -1,4 +1,4 @@
-# [0031. 函数参数](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0031.%20%E5%87%BD%E6%95%B0%E5%8F%82%E6%95%B0)
+# [0031. 函数参数](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0031.%20%E5%87%BD%E6%95%B0%E5%8F%82%E6%95%B0)
 
 <!-- region:toc -->
 

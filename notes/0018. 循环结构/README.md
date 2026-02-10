@@ -1,4 +1,4 @@
-# [0018. 循环结构](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0018.%20%E5%BE%AA%E7%8E%AF%E7%BB%93%E6%9E%84)
+# [0018. 循环结构](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0018.%20%E5%BE%AA%E7%8E%AF%E7%BB%93%E6%9E%84)
 
 <!-- region:toc -->
 

@@ -1,4 +1,4 @@
-# [0052. 对象指针、This指针与对象引用](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0052.%20%E5%AF%B9%E8%B1%A1%E6%8C%87%E9%92%88%E3%80%81This%E6%8C%87%E9%92%88%E4%B8%8E%E5%AF%B9%E8%B1%A1%E5%BC%95%E7%94%A8)
+# [0052. 对象指针、This指针与对象引用](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0052.%20%E5%AF%B9%E8%B1%A1%E6%8C%87%E9%92%88%E3%80%81This%E6%8C%87%E9%92%88%E4%B8%8E%E5%AF%B9%E8%B1%A1%E5%BC%95%E7%94%A8)
 
 <!-- region:toc -->
 

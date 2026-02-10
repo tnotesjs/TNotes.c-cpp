@@ -1,4 +1,4 @@
-# [0027. 学习资料](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0027.%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99)
+# [0027. 学习资料](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0027.%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99)
 
 <!-- region:toc -->
 

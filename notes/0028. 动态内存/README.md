@@ -1,4 +1,4 @@
-# [0028. 动态内存](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0028.%20%E5%8A%A8%E6%80%81%E5%86%85%E5%AD%98)
+# [0028. 动态内存](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0028.%20%E5%8A%A8%E6%80%81%E5%86%85%E5%AD%98)
 
 <!-- region:toc -->
 

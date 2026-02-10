@@ -1,4 +1,4 @@
-# [0063. 单继承](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0063.%20%E5%8D%95%E7%BB%A7%E6%89%BF)
+# [0063. 单继承](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0063.%20%E5%8D%95%E7%BB%A7%E6%89%BF)
 
 <!-- region:toc -->
 

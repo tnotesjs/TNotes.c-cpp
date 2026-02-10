@@ -1,4 +1,4 @@
-# [0048. 抽象](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0048.%20%E6%8A%BD%E8%B1%A1)
+# [0048. 抽象](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0048.%20%E6%8A%BD%E8%B1%A1)
 
 <!-- region:toc -->
 

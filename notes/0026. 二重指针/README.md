@@ -1,4 +1,4 @@
-# [0026. 二重指针](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0026.%20%E4%BA%8C%E9%87%8D%E6%8C%87%E9%92%88)
+# [0026. 二重指针](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0026.%20%E4%BA%8C%E9%87%8D%E6%8C%87%E9%92%88)
 
 <!-- region:toc -->
 

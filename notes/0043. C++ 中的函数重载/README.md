@@ -1,4 +1,4 @@
-# [0043. C++ 中的函数重载](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0043.%20C%2B%2B%20%E4%B8%AD%E7%9A%84%E5%87%BD%E6%95%B0%E9%87%8D%E8%BD%BD)
+# [0043. C++ 中的函数重载](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0043.%20C%2B%2B%20%E4%B8%AD%E7%9A%84%E5%87%BD%E6%95%B0%E9%87%8D%E8%BD%BD)
 
 <!-- region:toc -->
 

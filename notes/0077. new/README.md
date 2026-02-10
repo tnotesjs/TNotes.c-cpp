@@ -1,4 +1,4 @@
-# [0077. new](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0077.%20new)
+# [0077. new](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0077.%20new)
 
 <!-- region:toc -->
 

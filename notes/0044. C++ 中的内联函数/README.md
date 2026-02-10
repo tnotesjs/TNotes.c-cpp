@@ -1,4 +1,4 @@
-# [0044. C++ 中的内联函数](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0044.%20C%2B%2B%20%E4%B8%AD%E7%9A%84%E5%86%85%E8%81%94%E5%87%BD%E6%95%B0)
+# [0044. C++ 中的内联函数](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0044.%20C%2B%2B%20%E4%B8%AD%E7%9A%84%E5%86%85%E8%81%94%E5%87%BD%E6%95%B0)
 
 <!-- region:toc -->
 

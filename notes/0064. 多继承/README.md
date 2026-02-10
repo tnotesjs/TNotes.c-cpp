@@ -1,4 +1,4 @@
-# [0064. 多继承](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0064.%20%E5%A4%9A%E7%BB%A7%E6%89%BF)
+# [0064. 多继承](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0064.%20%E5%A4%9A%E7%BB%A7%E6%89%BF)
 
 <!-- region:toc -->
 

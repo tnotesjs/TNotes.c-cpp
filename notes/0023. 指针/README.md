@@ -1,4 +1,4 @@
-# [0023. 指针](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0023.%20%E6%8C%87%E9%92%88)
+# [0023. 指针](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0023.%20%E6%8C%87%E9%92%88)
 
 <!-- region:toc -->
 

@@ -1,4 +1,4 @@
-# [0004. 认识 C、C++ 语言](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0004.%20%E8%AE%A4%E8%AF%86%20C%E3%80%81C%2B%2B%20%E8%AF%AD%E8%A8%80)
+# [0004. 认识 C、C++ 语言](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0004.%20%E8%AE%A4%E8%AF%86%20C%E3%80%81C%2B%2B%20%E8%AF%AD%E8%A8%80)
 
 <!-- region:toc -->
 

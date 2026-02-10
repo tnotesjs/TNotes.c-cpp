@@ -1,4 +1,4 @@
-# [0001. 搭建 C、C++ 本地学习环境](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0001.%20%E6%90%AD%E5%BB%BA%20C%E3%80%81C%2B%2B%20%E6%9C%AC%E5%9C%B0%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83)
+# [0001. 搭建 C、C++ 本地学习环境](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0001.%20%E6%90%AD%E5%BB%BA%20C%E3%80%81C%2B%2B%20%E6%9C%AC%E5%9C%B0%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83)
 
 <!-- region:toc -->
 
@@ -92,7 +92,7 @@ clang --version
 
 ::: info 备注
 
-这主要是开源的 TNotes.c-cpp 需要解决的一个问题 —— 避免将不必要的编译产物推送到仓库中，和 C、C++ 的学习环境搭建没有直接关系。
+这主要是开源的 TNotes.c 需要解决的一个问题 —— 避免将不必要的编译产物推送到仓库中，和 C、C++ 的学习环境搭建没有直接关系。
 
 :::
 
@@ -183,14 +183,14 @@ gcc --version
 通过输出内容分析 Code Runner 的执行原理：
 
 ```shell
-# cd "c:\Users\Tdahuyou\Desktop\notes\c-cpp\0001. 在 win11 上搭建 C 的基本学习环境\demos\1\" && gcc 1.c -o 1 && "c:\Users\Tdahuyou\Desktop\notes\c-cpp\0001. 在 win11 上搭建 C 的基本学习环境\demos\1\"1
+# cd "c:\Users\Tdahuyou\Desktop\notes\c\0001. 在 win11 上搭建 C 的基本学习环境\demos\1\" && gcc 1.c -o 1 && "c:\Users\Tdahuyou\Desktop\notes\c\0001. 在 win11 上搭建 C 的基本学习环境\demos\1\"1
 # Hello World
 
 # "c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
 # 相当于执行了下面这些命令：
-# 1. cd "c:\Users\Tdahuyou\Desktop\notes\c-cpp\0001. 在 win11 上搭建 C 的基本学习环境\demos\1\"
+# 1. cd "c:\Users\Tdahuyou\Desktop\notes\c\0001. 在 win11 上搭建 C 的基本学习环境\demos\1\"
 # 2. gcc 1.c -o 1
-# 3. "c:\Users\Tdahuyou\Desktop\notes\c-cpp\0001. 在 win11 上搭建 C 的基本学习环境\demos\1\"1
+# 3. "c:\Users\Tdahuyou\Desktop\notes\c\0001. 在 win11 上搭建 C 的基本学习环境\demos\1\"1
 ```
 
 在理解了原理之后，其实我们也可以手动输入执行命令：

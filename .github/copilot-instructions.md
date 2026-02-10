@@ -2,7 +2,7 @@
 
 ## 项目概述
 
-- 这是一个使用 VitePress 构建的 C/CPP 开源知识库项目（TNotes.c-cpp）。
+- 这是一个使用 VitePress 构建的 C/CPP 开源知识库项目（TNotes.c）。
 - 每篇笔记都是一个独立的 Markdown 文件，包含完整的 C/CPP 知识点讲解。
 
 ## 知识库目录

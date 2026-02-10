@@ -1,4 +1,4 @@
-# [0073. 命名空间](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0073.%20%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4)
+# [0073. 命名空间](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0073.%20%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4)
 
 <!-- region:toc -->
 

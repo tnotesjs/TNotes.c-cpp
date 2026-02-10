@@ -1,4 +1,4 @@
-# [0017. 选择结构](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0017.%20%E9%80%89%E6%8B%A9%E7%BB%93%E6%9E%84)
+# [0017. 选择结构](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0017.%20%E9%80%89%E6%8B%A9%E7%BB%93%E6%9E%84)
 
 <!-- region:toc -->
 

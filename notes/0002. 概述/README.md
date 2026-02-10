@@ -1,4 +1,4 @@
-# [0002. 概述](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0002.%20%E6%A6%82%E8%BF%B0)
+# [0002. 概述](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0002.%20%E6%A6%82%E8%BF%B0)
 
 <!-- region:toc -->
 

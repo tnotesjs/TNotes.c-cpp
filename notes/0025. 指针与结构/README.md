@@ -1,4 +1,4 @@
-# [0025. 指针与结构](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0025.%20%E6%8C%87%E9%92%88%E4%B8%8E%E7%BB%93%E6%9E%84)
+# [0025. 指针与结构](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0025.%20%E6%8C%87%E9%92%88%E4%B8%8E%E7%BB%93%E6%9E%84)
 
 <!-- region:toc -->
 
