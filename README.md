@@ -17,7 +17,7 @@
 ## 1. 概述
 
 - [x] [0002. 概述](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0002.%20%E6%A6%82%E8%BF%B0/README.md)
-- [x] [0003. TNotes.c-cpp 知识库简介](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0003.%20TNotes.c-cpp%20%E7%9F%A5%E8%AF%86%E5%BA%93%E7%AE%80%E4%BB%8B/README.md)
+- [x] [0003. TNotes.c 知识库简介](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0003.%20TNotes.c%20%E7%9F%A5%E8%AF%86%E5%BA%93%E7%AE%80%E4%BB%8B/README.md)
 - [x] [0027. 学习资料](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0027.%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/README.md)
 
 ## 2. 认识 C 语言

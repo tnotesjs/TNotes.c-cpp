@@ -1,4 +1,4 @@
-# [0003. TNotes.c-cpp 知识库简介](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0003.%20TNotes.c-cpp%20%E7%9F%A5%E8%AF%86%E5%BA%93%E7%AE%80%E4%BB%8B)
+# [0003. TNotes.c 知识库简介](https://github.com/tnotesjs/TNotes.c/tree/main/notes/0003.%20TNotes.c%20%E7%9F%A5%E8%AF%86%E5%BA%93%E7%AE%80%E4%BB%8B)
 
 <!-- region:toc -->
 
