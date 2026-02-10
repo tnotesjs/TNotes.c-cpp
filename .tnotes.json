@@ -1,7 +1,9 @@
 {
   "author": "tnotesjs",
   "repoName": "TNotes.c",
-  "keywords": ["TNotes.c"],
+  "keywords": [
+    "TNotes.c"
+  ],
   "ignore_dirs": [
     ".vscode",
     "0000",
@@ -35,7 +37,7 @@
     "details": "C 笔记",
     "link": "https://tnotesjs.github.io/TNotes.c/",
     "created_at": 1737437192000,
-    "updated_at": 1770726895690,
+    "updated_at": 1770729754422,
     "days_since_birth": 9339
   },
   "port": 9339,
