@@ -19,10 +19,6 @@
     },
     "title": "c",
     "completed_notes_count": {
-      "25.01": 1,
-      "25.02": 1,
-      "25.03": 1,
-      "25.04": 1,
       "25.05": 1,
       "25.06": 1,
       "25.07": 1,
@@ -33,13 +29,14 @@
       "25.12": 1,
       "26.01": 1,
       "26.02": 12,
-      "26.03": 12
+      "26.03": 12,
+      "26.04": 12
     },
     "details": "C 语言笔记",
     "link": "https://tnotesjs.github.io/TNotes.c/",
     "created_at": 1737437192000,
-    "updated_at": 1772368221961,
-    "days_since_birth": 9339
+    "updated_at": 1775000878000,
+    "days_since_birth": 9774
   },
   "port": 9339,
   "menuItems": [
