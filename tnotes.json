@@ -1,0 +1,39 @@
+{
+  "title": "c",
+  "name": "TNotes.c",
+  "description": "C 语言笔记",
+  "icon": {
+    "src": "https://cdn.jsdelivr.net/gh/tnotesjs/imgs-2026@main/assets/icon--c.svg"
+  },
+  "repositoryUrl": "https://github.com/tnotesjs/TNotes.c",
+  "port": 9339,
+  "pageUrl": "https://tnotesjs.github.io/TNotes.c/",
+  "base": "/TNotes.c/",
+  "stats": {
+    "enabled": true,
+    "completedNotesCount": {
+      "25.01": 0,
+      "25.02": 0,
+      "25.03": 1,
+      "25.04": 1,
+      "25.05": 1,
+      "25.06": 1,
+      "25.07": 1,
+      "25.08": 1,
+      "25.09": 1,
+      "25.10": 1,
+      "25.11": 1,
+      "25.12": 1,
+      "26.01": 1,
+      "26.02": 1,
+      "26.03": 1,
+      "26.04": 1,
+      "26.05": 1,
+      "26.06": 12,
+      "26.07": 12,
+      "26.08": 12,
+      "26.09": 12
+    }
+  },
+  "discussions": true
+}
